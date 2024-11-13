@@ -2,6 +2,10 @@
 
 This Python application provides a GUI-based voice-activated Notepad and dictionary tool. Users can choose to either dictate text, which is automatically typed into Notepad, or say a word to retrieve its definition. The program features automatic detection of speech, as well as timeouts for no input.
 
+## 🖼 Screenshots
+
+![Screenshot 1](main_window.png)
+![Screenshot 2](word_meaning.png)
 ## Features
 
 - **Option Selection Interface**: The GUI interface lets users select between two functions:
