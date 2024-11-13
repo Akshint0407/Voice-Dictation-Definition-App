@@ -1,0 +1,6 @@
+speechrecognition==3.8.1  # Required for speech-to-text functionality.
+pyautogui==0.9.53  # Used for controlling the mouse and keyboard, specifically for typing in Notepad.
+pyttsx3==2.90  # Text-to-speech engine (if you plan on using text-to-speech functionality in the future).
+tkinter==8.6.9  # For creating the graphical user interface (GUI).
+requests==2.28.1  # Used to make HTTP requests to retrieve word meanings from an API.
+PyDictionary==2.0.1  # A Python wrapper for dictionary APIs to look up word meanings.
