@@ -1,4 +1,4 @@
-# Voice-Activated Notepad and Dictionary App
+# Voice-Dictation-Definition-App
 
 This Python application provides a GUI-based voice-activated Notepad and dictionary tool. Users can choose to either dictate text, which is automatically typed into Notepad, or say a word to retrieve its definition. The program features automatic detection of speech, as well as timeouts for no input.
 
